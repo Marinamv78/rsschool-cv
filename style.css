@@ -1,0 +1,42 @@
+* {
+	margin:10;
+	padding:0;}
+	
+	
+
+body {
+	background-color:d5ebe0;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+div {
+  width: 700px;
+  margin: 0 auto; 
+}
+p {
+  margin-bottom: 1.5em;
+}
+.info, .skills, .education, .english, .marina {
+  /* Positioning */
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+
+  /* Box-model */
+  display: block;
+  float: right;
+  width: 100px;
+  height: 100px;
+  
+}
+
+a {
+  color: #52d3aa; 
+  font-weight: 700;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  text-decoration: underline;
+}
+
