@@ -1,1 +1,1 @@
-https://Marinamv78.github.io/rsschool-cv/cv-html
+https://Marinamv78.github.io/rsschool-cv/cv
