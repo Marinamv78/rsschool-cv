@@ -1,6 +1,6 @@
 # ** Curriculum Vitae **
 
-First Name: Marina 
+
 
 
 -good theoretical knowledge of JavaScript;
